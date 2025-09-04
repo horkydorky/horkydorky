@@ -1,5 +1,6 @@
 ## Hi there 👋 
 
+---
 - 👩‍💻 I'm a Computer Science student from **Nepal** with a deep passion for Machine Learning.
 - 🚀 I love transforming complex problems into elegant solutions and building impactful projects with code.
 - 🤝 I'm actively looking to collaborate on: **Machine Learning & Deep Learning projects, research papers, open-source contributions, and hackathons.**
