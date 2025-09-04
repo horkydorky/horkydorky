@@ -44,7 +44,7 @@
 
 <!-- Styled "Let's Connect" Header -->
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=font=Source+Sans+Pro&size=22&lines=&lines=🌐+Let's+Connect" alt="Let's Connect Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=font=Source+Sans+Pro&lines=🌐+Let's+Connect" alt="Let's Connect Header" />
 </p>
 
 
