@@ -1,16 +1,4 @@
-## Hi there 👋
-
-
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=22&pause=1000&color=ADD8E6&center=true&vCenter=true&width=450&lines=Hi+there!+%F0%9F%91%8B+Welcome+to+my+profile..." alt="Typing SVG Greeting" />
-</p>
-
-<!-- Styled "About Me" Header -->
-<p>
-<!-- "About Me" as images -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=22&lines=👋+About+Me" alt="About Me Header" />
-</p>
+## Hi there 👋 
 
 - 👩‍💻 I'm a Computer Science student from **Nepal** with a deep passion for Machine Learning.
 - 🚀 I love transforming complex problems into elegant solutions and building impactful projects with code.
@@ -19,9 +7,6 @@
 ---
 
 <!-- Styled "Tech Stack" Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=22&lines=&lines=🧠+Tech+Stack" alt="Tech Stack Header" />
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Sans+Pro&size=18&pause=10000&color=ADD8E6&center=false&vCenter=true&width=200&lines=Languages+%26+Tools" alt="Languages & Tools" />
 
 **Languages & Tools**
 <p align="center">
@@ -40,7 +25,6 @@
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy" />
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 
 ---
