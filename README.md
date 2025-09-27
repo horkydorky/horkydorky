@@ -43,24 +43,6 @@
 
 
 <!-- Styled "Let's Connect" Header -->
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=font=Source+Sans+Pro&lines=🌐+Let's+Connect" alt="Let's Connect Header" />
-</p>
-
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yachanaadhk/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:adhikariyachana2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://www.kaggle.com/yayayayipee" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-</p>
 
 
 <!--
